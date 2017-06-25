@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="lib-v1.1.2">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.lsjwzh.RecyclerViewPager/lib/v1.1.2/res" />
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.lsjwzh.RecyclerViewPager/lib/v1.1.2/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lib-v1.1.2.aar/7732d3007b5c0eddc918779f209f8477/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lib-v1.1.2.aar/7732d3007b5c0eddc918779f209f8477/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

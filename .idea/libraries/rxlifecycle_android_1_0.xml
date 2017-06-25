@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="rxlifecycle-android-1.0">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.trello/rxlifecycle-android/1.0/res" />
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.trello/rxlifecycle-android/1.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rxlifecycle-android-1.0.aar/e033f772632fe77dcca6a02165b795ce/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rxlifecycle-android-1.0.aar/e033f772632fe77dcca6a02165b795ce/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
